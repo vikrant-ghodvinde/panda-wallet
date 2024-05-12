@@ -1,0 +1,48 @@
+{
+  "networks": [
+    {
+      "name": "Ethereum Mainnet",
+      "icon": "https://iili.io/J4sY4Nn.png"
+    },
+    {
+      "name": "Binance Smart Chain Mainnet",
+      "icon": "https://iili.io/J4sYrAX.png"
+    },
+    {
+      "name": "Polygon Network",
+      "icon": "https://iili.io/J4sYR99.png"
+    },
+    {
+      "name": "Panda Network",
+      "icon": "https://iili.io/J4s7uIa.png"
+    }
+  ],
+
+  "primaryAssets": [
+    {
+      "name": "Bitcoin",
+      "balance": "0 BTC",
+      "icon": "https://iili.io/J4sRrAu.png"
+    },
+    {
+      "name": "Polygon",
+      "balance": "0 MATIC",
+      "icon": "https://iili.io/J4sR4wb.png"
+    }
+  ],
+
+  "cryptoAssets": [
+    {
+      "name": "Bitcoin",
+      "balance": 0,
+      "quantity": 0,
+      "icon": "https://iili.io/J4sRrAu.png"
+    },
+    {
+      "name": "Polygon",
+      "balance": 0,
+      "quantity": 0,
+      "icon": "https://iili.io/J4sR4wb.png"
+    }
+  ]
+}
